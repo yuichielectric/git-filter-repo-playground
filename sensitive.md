@@ -1,2 +1,1 @@
-This file includes sensitive data.
-TOKEN
+This file doesn't include sensitive data.
